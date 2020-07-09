@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello :rocket: 🇦🇷
+
+```bash
+$ whoami
+nachito✨
+```
 
 <!--
 **ignacioVidaurreta/ignacioVidaurreta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
