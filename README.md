@@ -1,21 +1,9 @@
-### Hello :rocket: 🇦🇷
+<h1 align="center">Hi :rocket:, I'm Nachito 🇦🇷 </h1>
+<h3 align="center">I write code that sometimes works</h3>
 
-```bash
-$ whoami
-nachito✨
-```
+- 😄 Pronouns: he/him
+- 🐍 If I can write it in Python, then I'll do it.
 
-<!--
-**ignacioVidaurreta/ignacioVidaurreta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ignaciovidaurreta&show_icons=true&locale=en" alt="ignaciovidaurreta" /></p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
